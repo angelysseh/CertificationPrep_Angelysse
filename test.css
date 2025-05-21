@@ -3,3 +3,6 @@
     color: forestgreen;
     font-family: 'Segoe UI', Tahoma, sans-serif;
 }
+table, th, td {
+  border: 1px solid black;
+}
